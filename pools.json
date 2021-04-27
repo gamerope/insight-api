@@ -1,17 +1,17 @@
 [
   {
-    "poolName": "50BTC",
-    "url": "https://50btc.com/",
+    "poolName": "Rplant",
+    "url": "https://pool.rplant.xyz/",
     "searchStrings": [
-      "50BTC.com",
-      "50btc.com"
+      "Rplant Pool",
+      "Rplant"
     ]
   },
   {
-    "poolName": "175btc",
-    "url": "http://www.175btc.com/",
+    "poolName": "Suprnova",
+    "url": "http://suprnova.cc/",
     "searchStrings": [
-      "Mined By 175btc.com"
+      "Mined By suprnova.cc"
     ]
   },
   {
